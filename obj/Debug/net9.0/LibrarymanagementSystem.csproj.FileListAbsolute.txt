@@ -1,0 +1,14 @@
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.AssemblyInfo.cs
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\bin\Debug\net9.0\LibrarymanagementSystem.exe
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\bin\Debug\net9.0\LibrarymanagementSystem.deps.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\bin\Debug\net9.0\LibrarymanagementSystem.runtimeconfig.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\bin\Debug\net9.0\LibrarymanagementSystem.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\bin\Debug\net9.0\LibrarymanagementSystem.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\refint\LibrarymanagementSystem.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.genruntimeconfig.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\ref\LibrarymanagementSystem.dll
