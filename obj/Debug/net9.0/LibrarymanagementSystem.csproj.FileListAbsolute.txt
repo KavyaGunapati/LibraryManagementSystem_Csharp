@@ -12,3 +12,4 @@ C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\r
 C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.pdb
 C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.genruntimeconfig.cache
 C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementSystem\obj\Debug\net9.0\ref\LibrarymanagementSystem.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibrarymanagementSystem\obj\Debug\net9.0\LibrarymanagementSystem.sourcelink.json

@@ -1,0 +1,11 @@
+101,c,jhon,programming,True
+101,c,jhon,programmig,True
+102,python,hose,lang,True
+103,java,git,kai,True
+101,c,fh,j,True
+102,python,fu,j,True
+103,java,yfik,l,True
+101,c,jhon,prog,True
+102,python,vill,lang,True
+103,java,gr,lang,True
+101,c,huh,ni,True

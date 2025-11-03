@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementSystem\\LibrarymanagementSystem.csproj": {}
+    "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibrarymanagementSystem\\LibrarymanagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementSystem\\LibrarymanagementSystem.csproj": {
+    "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibrarymanagementSystem\\LibrarymanagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementSystem\\LibrarymanagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibrarymanagementSystem\\LibrarymanagementSystem.csproj",
         "projectName": "LibrarymanagementSystem",
-        "projectPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementSystem\\LibrarymanagementSystem.csproj",
+        "projectPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibrarymanagementSystem\\LibrarymanagementSystem.csproj",
         "packagesPath": "C:\\Users\\GunapatiKavya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibrarymanagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GunapatiKavya\\AppData\\Roaming\\NuGet\\NuGet.Config"
